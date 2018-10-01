@@ -6,9 +6,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/puzzle"
+        android:icon="@drawable/bool1"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/puzzle"
+        android:roundIcon="@drawable/bool1"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
